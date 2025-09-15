@@ -1,2 +1,2 @@
-# digitallibrary
+# Digitallibrary
 Mencoba membuat digital library
