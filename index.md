@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah koleksi yang tersedia:  
 
 ## Koleksi Buku
-1. [Atomic Habits](Atomic%20Habits.pdf)  
+1. [Atomic Habits](Atomic_Habits.pdf)  
 2. [Filosofi Teras](Filosofi%20Teras.pdf)  
 3. [How to Win Friends and Influence People](How%20to%20Win%20Friends%20and%20Influence%20People.pdf)  
 4. [Laut Bercerita](Laut%20Bercerita.pdf)  
