@@ -20,7 +20,7 @@ Yuk, pilih bacaan favoritmu dan mulailah perjalanan pengetahuan hari ini 🚀
 10.	⚡ [Thinking, Fast and Slow](ebook/Thinking, Fast and Slow.pdf) – Menyelami dua cara berpikir dalam otak manusia 🧐
 11.	📄 [RESUME VR FAIRUZA (107)](ebook/RESUME VR FAIRUZA (107).pdf) – Dokumen resume yang siap dibaca 📑
 
-👉 Setelah selesai menjelajahi daftar ini, kamu bisa lanjut ke halaman berikut: [halaman1](webti/halaman1.html) 🚪
+👉 Setelah selesai menjelajahi daftar ini, kamu bisa lanjut ke halaman berikut: [halaman 1-7](webti/halaman1.html) 🚪
 
 Perpustakaan Digital ini hadir untuk menemani perjalanan belajarmu.
 Setiap buku adalah jendela baru untuk memahami dunia, diri sendiri, dan masa depanmu. 📖✨
