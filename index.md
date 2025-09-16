@@ -1,11 +1,12 @@
 # 📚 DIGITAL LIBRARY
+
 Halo, selamat datang di Perpustakaan Digital kami 👋
 Tempat ini dirancang untuk kamu yang ingin membaca, belajar, dan terus berkembang.
 Di sini tersedia berbagai koleksi buku menarik, mulai dari pengembangan diri, literatur fiksi, hingga wawasan finansial.
 Setiap buku bisa kamu akses dengan mudah hanya dengan sekali klik. 🌐
 Bayangkan, kamu bisa membuka halaman baru, mendapatkan inspirasi, bahkan mungkin menemukan ide besar hanya dari satu buku.
 Yuk, pilih bacaan favoritmu dan mulailah perjalanan pengetahuan hari ini 🚀
----
+
 📕 Koleksi Buku
 1.	📘 [Atomic Habits](ebook/Atomic Habits.pdf) – Belajar bagaimana kebiasaan kecil mampu membawa perubahan besar 🌱
 2.	📙 [Filosofi Teras](ebook/Filosofi Teras.pdf) – Menemukan ketenangan dengan filsafat stoik 🧘
@@ -18,12 +19,12 @@ Yuk, pilih bacaan favoritmu dan mulailah perjalanan pengetahuan hari ini 🚀
 9.	💰 [The Psychology of Money](ebook/The Psychology of Money.pdf) – Memahami perilaku manusia dalam mengelola uang 🧠
 10.	⚡ [Thinking, Fast and Slow](ebook/Thinking, Fast and Slow.pdf) – Menyelami dua cara berpikir dalam otak manusia 🧐
 11.	📄 [RESUME VR FAIRUZA (107)](ebook/RESUME VR FAIRUZA (107).pdf) – Dokumen resume yang siap dibaca 📑
----
+
 👉 Setelah selesai menjelajahi daftar ini, kamu bisa lanjut ke halaman berikut: [halaman1](webti/halaman1.html) 🚪
----
+
 Perpustakaan Digital ini hadir untuk menemani perjalanan belajarmu.
 Setiap buku adalah jendela baru untuk memahami dunia, diri sendiri, dan masa depanmu. 📖✨
 Jangan ragu untuk kembali kapan saja.
 Baca satu halaman per hari, nikmati prosesnya, dan biarkan pengetahuan tumbuh bersama dirimu 🌱
 Selamat membaca dan semoga bermanfaat! 🙌
----
+
