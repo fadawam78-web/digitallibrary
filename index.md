@@ -15,3 +15,5 @@ Berikut ini koleksi buku:
 9. [The Psychology of Money](ebook/The Psychology of Money.pdf)  
 10. [Thinking, Fast and Slow](ebook/Thinking, Fast and Slow.pdf)  
 11. [RESUME VR FAIRUZA (107)](ebook/RESUME VR FAIRUZA (107).pdf)  
+
+[halaman1](webti/halaman1.html)
